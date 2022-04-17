@@ -10,6 +10,7 @@ When we look at the total data the overall calculated variance is within specifi
 
 ## T-Tests on Suspension Coils
 ![t-test](t-test.png)
+
 When you are looking at the t-test from each lot you will see 1 and 2 are again within and lot 3 is not. Lot 1 and 2 are not below the common significance level of 0.05. We can see that lot 3 is below it at .04 which means the should do more testing on lot 3 to find out what is causing these results.
 
 ## Study Design: MechaCar vs Competition
